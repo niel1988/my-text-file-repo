@@ -1,2 +1,3 @@
 My Text 1 - Commit1
 My Text 2 - Commit2
+My Text 3 - Commit3
